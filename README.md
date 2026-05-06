@@ -1,2 +1,23 @@
-# house-prices-preprocessing
-Data Preprocessing for House Prices Dataset from Kaggle
+
+# House Prices Data Preprocessing
+ Data Preprocessing for House Prices Dataset from Kaggle
+
+## المشروع
+معالجة شاملة لبيانات أسعار البيوت من Kaggle
+
+## الملفات
+- `RubaQeshatAssignment 1.ipynb` - الكود الكامل
+- `requirements.txt` - المكتبات
+- `data/` - ملفات البيانات
+
+## البدء السريع
+```bash
+pip install -r requirements.txt
+jupyter notebook RubaQeshatAssignment\ 1.ipynb
+```
+
+## النتائج
+✓ 1456 بيت معالج
+✓ 0 قيم مفقودة
+✓ 150+ ميزة
+✓ جاهز للنمذجة
